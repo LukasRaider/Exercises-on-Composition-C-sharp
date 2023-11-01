@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\bin\Debug\net6.0\Exercises on Composition.exe
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\bin\Debug\net6.0\Exercises on Composition.deps.json
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\bin\Debug\net6.0\Exercises on Composition.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\bin\Debug\net6.0\Exercises on Composition.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\bin\Debug\net6.0\Exercises on Composition.pdb
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\obj\Debug\net6.0\Exercises on Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\obj\Debug\net6.0\Exercises on Composition.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\obj\Debug\net6.0\Exercises on Composition.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\obj\Debug\net6.0\Exercises on Composition.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\obj\Debug\net6.0\Exercises on Composition.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\obj\Debug\net6.0\refint\Exercises on Composition.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\obj\Debug\net6.0\Exercises on Composition.pdb
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\obj\Debug\net6.0\Exercises on Composition.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Exercises on Composition\obj\Debug\net6.0\ref\Exercises on Composition.dll
